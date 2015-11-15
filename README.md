@@ -1,5 +1,6 @@
+# Hello, I am Charlie.
+
 <p align="center">
-  <img src="/docs/images/logo.png" width="350" height="350">
+  <img src="/docs/images/logo.gif" width="350" height="350">
 </p>
 
-# Hello, I am Charlie.
